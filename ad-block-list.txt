@@ -15,5 +15,5 @@ ff02::3 ip6-allhosts
 
 # list
  
-0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googlesyndication.com
 
